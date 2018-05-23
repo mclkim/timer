@@ -1,6 +1,24 @@
 {
+  "name": "mclkim/timer",
+  "description": "",
+  "type": "library",
+  "keywords": [
+    "database"
+  ],
+  "license": "MIT",
+  "homepage": "http://mclkim.github.com",
+  "support": {
+    "issues": "https://github.com/mclkim/timer/issues",
+    "source": "https://github.com/mclkim/timer"
+  },
+  "authors": [
+    {
+      "name": "Kim myung chul",
+      "email": "mclkims@gmail.com"
+    }
+  ],
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=5.4.0"
   },
   "autoload": {
     "psr-4": {
